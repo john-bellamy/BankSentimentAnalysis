@@ -1,4 +1,4 @@
-# BankSentimentAnalysis
+# Bank Sentiment Analysis
 
 # Requirements
 1) GOT3
